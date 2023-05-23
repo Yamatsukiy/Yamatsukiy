@@ -198,7 +198,7 @@
 
 ----
 	
-[![Yamatsukiy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yamatsukiy&theme=github	)](https://github.com/Yamatsukiy/github-readme-activity-graph)
+[![Yamatsukiy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yamatsukiy&theme=github)](https://github.com/Yamatsukiy/github-readme-activity-graph)
 
  
 </details>
