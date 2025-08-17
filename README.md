@@ -13,7 +13,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :school: Soy estudiante de **Ciencias de la Computación** en la [Universidad "Jesús Obrero"](https://webiujocatia.wordpress.com/).
+- :school: Soy estudiante de **Ciencias de la Computación** en la [Instituto Universitario "Jesús Obrero"](https://webiujocatia.wordpress.com/).
 - :technologist: Me apasiona usar el software para **resolver problemas**.
 - :computer: Practico la programación competitiva en plataformas como `Codeforces`, `Atcoder` y `Leetcode`.
 - :student: Estoy aprendiendo **Ciberseguridad** y **Desarrollo de Software**.
@@ -125,3 +125,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yamatsukiy&theme=tokyonight&no-bg=true" /></a>
 </p>
 </details>
+
+---
+
+<p align="center"> 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/main/Assets/Snake.svg" alt="Snake game" />
+</p>
